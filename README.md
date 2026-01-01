@@ -1,5 +1,6 @@
-# 💫 About Me:
-i'm persuing computer systems engineering<br>my primary language is python<br>i also know a bit about C, C++, javascript<br>i am interested in backend development<br>i know sql databases<br>i also know Fastapi, React a little bit
+# 💫 About Me
+
+Computer Systems Engineering student with a strong focus on learning new things. I primarily work with Python and have experience building APIs using FastAPI and SQL databases. I also have working knowledge of C, C++, JavaScript, and basic React, enabling effective full-stack collaboration. Passionate about building scalable, real-world systems and continuously improving my engineering skills.
 
 
 ## 🌐 Socials:
